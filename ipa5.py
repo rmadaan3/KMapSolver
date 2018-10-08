@@ -1,5 +1,7 @@
 #NAME & ROLL.NO = {"ASHUTOSH BANSAL":"2017140","KANISHK RANA":"2017241","RAHUL MADAAN":"2017179","SHAURYA BAGGA":"2017104"}
 #SECTION B
+
+#KMap Solver Using  Quine–McCluskey algorithm
 from copy import copy
 import math
 from string import ascii_uppercase as au
